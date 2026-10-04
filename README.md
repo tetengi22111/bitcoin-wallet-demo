@@ -1,2 +1,2 @@
-# bitcoin-wallet-demo
-A demo Bitcoin wallet application with user uthman135600
+# bitcoin-wallet-app
+A application Bitcoin wallet application with user uthman135600
